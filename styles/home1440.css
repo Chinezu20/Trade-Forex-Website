@@ -45,6 +45,9 @@ html {
   white-space: nowrap;
   flex-shrink: 0;
 }
+ul{
+  list-style-type: none;
+}
 .header .navbar a{
   outline: none;
   text-decoration: none;
